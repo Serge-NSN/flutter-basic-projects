@@ -1,2 +1,2 @@
-# flutter-dice-app
-A basic dice app built using Flutter for learning purposes
+# Repository for Basic Flutter projects
+Basic Apps built using Flutter for learning purposes
